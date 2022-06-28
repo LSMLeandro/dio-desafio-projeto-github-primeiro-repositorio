@@ -1,2 +1,4 @@
-# dio-desafio-projeto-github-primeiro-repositorio
-Desafio de Projeto sobre Git/GitHub
+# Repositório do desafio Git/GitHub da Dio
+
+1. Criar Repositório
+2. Editando Readme
